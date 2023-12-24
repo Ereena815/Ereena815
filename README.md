@@ -17,12 +17,12 @@
 - QA Test Engineer Intern (11/2022-02/2023) - JDR Software
 - Innofes Winner 2023
 ```
-## 💻 Technical Skills
+## 💻 Technical skills:
 ```
-- **Languages:** C++, Python, Java, C#, JavaScript
-- **Cybersecurity:** Ethical Hacking, Cybersecurity Management
-- **Web Technologies:** HTML, CSS, Node JS, MEAN
-- **Databases:** MySQL, MongoDB
+- Languages: C++, Python, Java, C#, JavaScript
+- Cybersecurity: Ethical Hacking, Cybersecurity Management
+- Web Technologies: HTML, CSS, Node JS, MEAN
+- Databases: MySQL, MongoDB
 ```  
 ### ☕ Wanna chat?
 Contact me through [Email](mailto:ereenabagga1436@gmail.com) or [Linkedin](https://www.linkedin.com/in/ereena-bagga-a555611b8/).
