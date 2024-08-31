@@ -1,18 +1,18 @@
 # Hi there <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="150px">
 ## 🚀 About Me
-🎓 I am Ereena, a **software engineer** (specializing in **Software Development and Cyber Security**) currently pursuing my Honour's in **Software Engineering** at Deakin University, Melbourne.
+🎓 I am Ereena, a **software engineer** (specializing in **Software Development and Cyber Security**) recently completed my Honour's in **Software Engineering** at Deakin University, Melbourne.
 
 📚 Apart from software development I love reading books, cycling, travelling
 
 🌱 I'm looking for New Grad/Junior roles starting June 2024 ✨
 ```
 - 🔭 I’m currently working as an Automation Test Engineer at JDR Software (https://www.jdrsoftware.com/)
-- 🎓 Grad Girls Graduate 2023, Student Ambassador at Microsoft Learn, SEBE Peer Mentor at Deakin University
-- 📮 Current Project: SafeList - Intelligent Solution for Occupational Injury Risk Mitigation, utilizes advanced computer vision, image processing and machine learning technologies for real-time posture detection
-- 🌱 I’m currently refining my DSA skills
-- 💬 Ask me about JavaScript, NodeJS
+- 🎓 Grad Girls Student, Student Ambassador at Microsoft Learn, SEBE Peer Mentor at Deakin University
+- 📮 Current Project: Deep Learning Web Application: Real-Time Posture Correction System , utilizes advanced computer vision, image processing and machine learning technologies for real-time posture detection
+- 🌱 I’m currently refining my DSA skills and Leetcoding everyday
+- 💬 Ask me about Python, Java, JavaScript
 - ⚡ Fun fact: I am a foodie and I love eating pizzas🍕
-- I am interested in Artificial Intelligence, Machine Learning and automation.
+- I am interested in Software Development and a bit of AI stuff at present.
 ```
 
 ### 🧰 Toolbox
